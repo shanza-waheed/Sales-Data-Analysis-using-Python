@@ -1,6 +1,4 @@
-# Python_Project_of_Sales_Analysis
-
-## Sales Analysis Report
+# Python_Project_Sales_Analysis_ Report
 
 ### Project Overview
 
